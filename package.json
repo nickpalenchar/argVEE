@@ -1,0 +1,25 @@
+{
+  "name": "arg-vee",
+  "version": "0.9.0",
+  "description": "get cli-like flags from process.argv in a nice lil object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickpalenchar/argVEE.git"
+  },
+  "keywords": [
+    "cli",
+    "arguments",
+    "commands",
+    "flag"
+  ],
+  "author": "Nick Palenchar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickpalenchar/argVEE/issues"
+  },
+  "homepage": "https://github.com/nickpalenchar/argVEE#readme"
+}
